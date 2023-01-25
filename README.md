@@ -34,7 +34,7 @@ IS_SUCCESSFUL—Was the money used effectively
 charity_data.csv
 AlphabetCoupCharity.ipynb
 
-Data Preprocessing
+**Data Preprocessing**
 
 - What variable(s) are considered the target(s) for your model? 'IS_SUCCESSFUL'
 
@@ -42,7 +42,7 @@ Data Preprocessing
 
 - What variable(s) are neither targets nor features, and should be removed from the input data? 'NAME'
 
-Compiling, Training, and Evaluating the Model
+**Compiling, Training, and Evaluating the Model**
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
